@@ -1,0 +1,60 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+
+        {
+
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopi Susu Robusta",
+            "size": "500 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "indo coffe": [
+        {
+            "foto": "images/produk/kopi-aceh-gayo-4.webp",
+            "nama": "Kopi Goyo",
+            "size": "100 Gram",
+            "harga": "85.000",
+            "link": "https://tokopedia.link/lscYPDHksAb"
+        },
+        {
+            "foto": "/images/produk/kintamani-coffe.webp",
+            "nama": "Kopi Hitam Kintamani",
+            "size": "250 Gram",
+            "harga": "100.000",
+            "link": "https://tokopedia.link/0WzcP3djsAb"
+        }
+    ]
+    
+}
